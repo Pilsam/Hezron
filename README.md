@@ -1,2 +1,3 @@
 # Hezron
-Programmer for hire
+Programmer for hire.
+I love programming in my life.
